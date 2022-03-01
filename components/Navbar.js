@@ -56,6 +56,7 @@ export default function Navbar() {
               <li><Link href="/uidesign"><a className="hover:underline">UI Design</a></Link></li>
               <li><Link href="/frontend"><a className="hover:underline">Front-End</a></Link></li>
               <li><Link href="/backend"><a className="hover:underline">Back-End</a></Link></li>
+              <li><Link href="/contact"><a className="hover:underline">Contact</a></Link></li>
               <li className="relative">
                 <a 
                   className="hover:underline cursor-pointer flex items-center"
